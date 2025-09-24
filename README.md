@@ -85,8 +85,6 @@
   - 싱글톤 + `DontDestroyOnLoad`  
   - 씬 이름 기반 BGM 전환 (`sceneLoaded` 이벤트)  
 
----
-
 ### 2. 주요 설계 포인트
 - **싱글톤 패턴**: GameManager, SoundManager는 전역 접근을 위해 싱글톤 적용  
 - **씬 기반 게임 루프**: Main → Play → Result 구조로 명확한 흐름 설계  
