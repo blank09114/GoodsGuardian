@@ -12,7 +12,7 @@
 ---
 
 ## 📥 설치 및 실행 방법
-1. [`굿즈를 지켜라!.zip`](https://drive.google.com/drive/folders/1vbPXN1k8VMbJCfqG5v1avyIOX9l7f8gf?usp=drive_link) 다운로드  
+1. [`굿즈를 지켜라!.zip`](https://drive.google.com/drive/folders/1Zb8_Xu9UgcZrw5GPNPAsrp-qyvis6v3A?usp=sharing) 다운로드  
 2. 압축 해제  
 3. `GoodsGuardian.exe` 실행
 
